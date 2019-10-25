@@ -9,7 +9,10 @@ public class App {
 	public static void main(String[] args) {
 		
 		if (args.length > 0) {
-			System.out.println("Hello" + args[0]);
+			for (String name : args) {
+				System.out.println("Hi"+name);;
+			}
+			System.out.println("Hello");
 		} else {
 			System.out.println("Hello World!");
 		}
