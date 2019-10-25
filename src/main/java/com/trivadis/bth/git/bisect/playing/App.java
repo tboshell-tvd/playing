@@ -12,7 +12,6 @@ public class App {
 			for (String name : args) {
 				System.out.println("Hi"+name);;
 			}
-			System.out.println("Hello");
 		} else {
 			System.out.println("Hello World!");
 		}
