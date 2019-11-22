@@ -1,4 +1,4 @@
-package com.trivadis.bth.git.bisect.playing;
+package com.something.bth.git.bisect.playing;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
